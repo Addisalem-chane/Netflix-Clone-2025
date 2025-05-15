@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import './Footer.css'
 import FacebookOutlinedIcon from "@mui/icons-material/FacebookOutlined";
 import InstagramIcon from "@mui/icons-material/Instagram";

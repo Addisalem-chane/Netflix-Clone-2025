@@ -4,7 +4,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    /* background-color: rgb(148, 132, 132); */
+    background-color: rgb(148, 132, 132);
     background-color:rgb(20, 20, 20);
     background-color: transparent;
     height: 10vh;
@@ -12,7 +12,7 @@
     transition:all 0.5s;
     transition-timing-function:ease-in;
     z-index: 1;
-    /* background-color: red; */
+    background-color: black;
 }
 /* .nav_black{
 background-color:Irgb(20, 20, 20);

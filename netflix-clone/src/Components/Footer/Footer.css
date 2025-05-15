@@ -3,6 +3,7 @@
     color:grey;
     display: flex;
     justify-content: center;
+    margin-top: 10px;
 }
 .footer_inner_container{
     width: 60%;

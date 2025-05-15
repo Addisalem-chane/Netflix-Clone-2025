@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import './Header.css';
 import Netlixlogo from "../../assets/Images/Netflixlogo.png";
 import SearchIcon from "@mui/icons-material/Search";
