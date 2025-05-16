@@ -15,8 +15,10 @@
     "@mui/icons-material": "^7.1.0",
     "@mui/material": "^7.1.0",
     "axios": "^1.9.0",
+    "movie-trailer": "^3.2.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "react-youtube": "^10.1.0",
     "serve": "^14.2.4"
   },
   "devDependencies": {
