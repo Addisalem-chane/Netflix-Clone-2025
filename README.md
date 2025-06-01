@@ -1,12 +1,59 @@
-# React + Vite
+# 🎬 Netflix Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive **Netflix homepage clone** built using modern frontend technologies. This project replicates the layout and style of Netflix, including the hero banner, movie carousels, and smooth hover animations. It’s optimized for all devices.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 [View Live Site](https://Addisalem-chane.github.io/Netflix-Clone-2025)
+📁 [Source Code](https://github.com/Addisalem-chane/Netflix-Clone-2025)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧰 Tech Stack
+
+* HTML5
+* CSS3 
+* JavaScript (ES6+)
+* React + vite
+* GitHub Pages (deployment)
+
+## ✨ Features
+
+* ✅ Netflix-style landing page
+* ✅ Responsive navigation bar with logo
+* ✅ Horizontal movie row carousels
+* ✅ Hover effects on thumbnails
+* ✅ Fully mobile-responsive layout
+* ✅ Smooth transitions and animations
+
+  ## 📚 Lessons Learned
+
+  * Gained experience recreating complex, real-world UIs
+  * Improved understanding of responsive design using Flexbox and Grid
+  * Practiced CSS transitions and hover animations
+  * Learned how to deploy projects using GitHub Pages
+  * Developed cleaner and more maintainable frontend code
+  * Enhanced skills in layout structuring and reusable components 
+
+    ## 🙋‍♂️ Author
+
+    **Your Name**
+
+    * GitHub:(https://github.com/Addisalem-chane)
+    * Portfolio:(https://addisalemchane.com)
+
+      ## 📌 Acknowledgements
+
+      * Inspired by the design and layout of [Netflix](https://www.netflix.com)
+      * Fonts provided by [Google Fonts](https://fonts.google.com)
+      * Icons from [Font Awesome](https://fontawesome.com) 
+      * Placeholder images and assets sourced from public APIs
+
+## 🛠️ Getting Started
+
+### Clone the project
+
+```bash
+git clone https://github.com/Addisalem-chane/Netflix-Clone-2025.git
+cd netflix-clone
+```
+
